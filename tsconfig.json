@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "skipLibCheck": true,
+        "esModuleInterop": true,
+        "noEmit": true,
+        "strict": true,
+        "noImplicitAny": true,
+        "jsx": "react",
+        "lib": [
+            "esnext",
+            "dom"
+        ],
+        "allowJs": true,
+        "baseUrl": "./",
+        "paths": {
+            "@components/*": [
+                "src/components/*"
+            ],
+        },
+    },
+    "exclude": [
+        "node_modules",
+        "dist",
+    ]
+}
