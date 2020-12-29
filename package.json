@@ -1,0 +1,19 @@
+{
+  "name": "oh-my-boilingpoint",
+  "version": "0.0.1",
+  "description": "Oh gee, some (yet another) boiler plate code for my preferred React setup (React, TS, Storyboard, Jest, Linting, all with Webpack and Babel and base configs)...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spxrogers/oh-my-boilingpoint.git"
+  },
+  "author": "steven rogers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spxrogers/oh-my-boilingpoint/issues"
+  },
+  "homepage": "https://github.com/spxrogers/oh-my-boilingpoint#readme"
+}
